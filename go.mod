@@ -18,10 +18,9 @@ require (
 	github.com/go-openapi/validate v0.20.1
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
-	github.com/golang/protobuf v1.4.2
+	github.com/golang/protobuf v1.4.3
 	github.com/google/addlicense v0.0.0-20200906110928-a0294312aa76
 	github.com/google/go-cmp v0.5.2
-	github.com/google/gofuzz v1.1.0 // indirect
 	github.com/google/uuid v1.1.2
 	github.com/gopherjs/gopherjs v0.0.0-20181103185306-d547d1d9531e // indirect
 	github.com/gorilla/mux v1.8.0
@@ -38,16 +37,16 @@ require (
 	github.com/sirupsen/logrus v1.6.0
 	github.com/spf13/viper v1.6.2
 	github.com/stretchr/testify v1.6.1
-	golang.org/x/net v0.0.0-20200602114024-627f9648deb9
+	golang.org/x/net v0.0.0-20201110031124-69a78807bb2b
 	google.golang.org/api v0.20.0
 	google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013
 	google.golang.org/grpc v1.34.0
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.1.0
 	google.golang.org/protobuf v1.25.0
 	gopkg.in/yaml.v2 v2.3.0
-	k8s.io/api v0.17.9
-	k8s.io/apimachinery v0.17.9
-	k8s.io/client-go v0.17.9
+	k8s.io/api v0.20.0
+	k8s.io/apimachinery v0.20.0
+	k8s.io/client-go v0.20.0
 	k8s.io/code-generator v0.17.9
 	k8s.io/kubernetes v0.17.9
 	sigs.k8s.io/controller-runtime v0.5.11
