@@ -6,7 +6,7 @@ kind: Kustomization
 # * this does not include argo server.
 # * this separates cluster-scoped resources to its own folder.
 
-bases:
+resources:
 - ../../base
 - ../../upstream/manifests/namespace-install/workflow-controller-rbac
 
