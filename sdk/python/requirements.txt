@@ -6,7 +6,7 @@
 #
 cachetools==5.2.0
     # via google-auth
-certifi==2022.6.15
+certifi==2024.7.4
     # via
     #   kfp-server-api
     #   kubernetes
@@ -43,7 +43,7 @@ idna==3.3
     # via requests
 kfp-pipeline-spec==0.2.2
     # via -r requirements.in
-kfp-server-api==2.0.0-rc.1
+kfp-server-api==2.0.5
     # via -r requirements.in
 kubernetes==23.6.0
     # via -r requirements.in
